@@ -9,7 +9,7 @@
 ```js
 export default () => ({
   Pronouns: "He" | "Him",
-  Portfolio: "coming soon",
+  Portfolio: "https://aaediie.netlify.app/",
   Skills: [
     "Leadership", "Team Building", "Decision Making",
     "Problem Solving", "Time Management", "Rapid Learner" 
