@@ -22,7 +22,7 @@ export default () => ({
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/68144680/158022764-17d83597-ea03-4338-a6d5-68d124a91425.gif" width="400" height="270" />
  
   - Love Making solutions via Web Development && Problem Solving
-  - 🔭 Currently working on <code>**Fake News Detection**</code> Project
+  - 🔭 Currently working on <code>**Social Media App**</code> Project
   - 😄 : **Music**, **Coffee**, **Coding**... **Workout!**
   - ⚡ Fun fact: <code> **Bananas can't reproduce.**</code>
   - 📫 Ping me on any of the below, i'll be **happy to chat!**
