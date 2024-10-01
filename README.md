@@ -2,7 +2,7 @@
 ## <𝚌𝚘𝚍𝚎𝚛𝚜> hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  <𝚌𝚘𝚍𝚎𝚛𝚜 />
 <p align="center"> <img align="center"  src="https://user-images.githubusercontent.com/68144680/158026185-cc6e67ee-c1c6-4df8-9644-ab0546847ac9.png"
 > </p>
-<p >Hi I am <b>Aditya Raj </b>, CSE undergrad student.I am a keen learner and i am always passionate about learning new things.I am a passionate self-taught <b>web developer </b> . My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</p>
+<p >Hi I am <b>Aditya Raj </b>, Full-time Software Engineer.I am a keen learner and i am always passionate about learning new things.I am a passionate self-taught <b>web developer </b> . My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</p>
 
 
 ##  FRONTEND Development | JS | DevOps  
