@@ -21,7 +21,6 @@
   - Backend Engineering
   - Computer Vision
   - Scalable Systems
-- 💻 Solving DSA & Competitive Programming problems regularly
 - 🚀 Building AI-powered products and scalable backend systems
 
 ---
